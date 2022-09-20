@@ -7,7 +7,7 @@ trap 'docker rm -fv jenkins-plugins' EXIT
 
 JENKINS_VERSION=$(docker exec -it jenkins-plugins /bin/sh -c 'echo -n "${JENKINS_VERSION}"')
 
-sed -i "s|^FROM jenkins/jenkins:.*$|FROM jenkins/jenkins:${JENKINS_VERSION}|" Containerfile
+sed -i "s|^FROM jenkins/jenkins:.*$|FROM jenkins/jenkins:${JENKINS_VERSION}|" Dockerfile
 
 suggested_plugins_url="https://raw.githubusercontent.com/jenkinsci/jenkins/jenkins-${JENKINS_VERSION}/core/src/main/resources/jenkins/install/platform-plugins.json"
 
