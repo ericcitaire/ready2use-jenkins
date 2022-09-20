@@ -20,6 +20,9 @@ plugins:
 - artifactId: "workflow-multibranch"
   source:
     version: "716.vc692a_e52371b_"
+- artifactId: "docker-workflow"
+  source:
+    version: "521.v1a_a_dd2073b_2e"
 - artifactId: "pipeline-stage-tags-metadata"
   source:
     version: "2.2114.v2654ca_721309"
@@ -116,6 +119,9 @@ plugins:
 - artifactId: "ace-editor"
   source:
     version: "1.1"
+- artifactId: "docker-commons"
+  source:
+    version: "1.21"
 - artifactId: "workflow-durable-task-step"
   source:
     version: "1199.v02b_9244f8064"
