@@ -1,0 +1,341 @@
+plugins:
+- artifactId: "gitlab-api"
+  source:
+    version: "5.0.1-78.v47a_45b_9f78b_7"
+- artifactId: "blueocean-config"
+  source:
+    version: "1.25.8"
+- artifactId: "github-branch-source"
+  source:
+    version: "1695.v88de84e9f6b_9"
+- artifactId: "snakeyaml-api"
+  source:
+    version: "1.31-84.ve43da_fb_49d0b"
+- artifactId: "pipeline-github-lib"
+  source:
+    version: "38.v445716ea_edda_"
+- artifactId: "blueocean-pipeline-api-impl"
+  source:
+    version: "1.25.8"
+- artifactId: "workflow-multibranch"
+  source:
+    version: "716.vc692a_e52371b_"
+- artifactId: "pipeline-stage-tags-metadata"
+  source:
+    version: "2.2114.v2654ca_721309"
+- artifactId: "javax-activation-api"
+  source:
+    version: "1.2.0-4"
+- artifactId: "git-client"
+  source:
+    version: "3.12.0"
+- artifactId: "scm-api"
+  source:
+    version: "621.vda_a_b_055e58f7"
+- artifactId: "pipeline-stage-step"
+  source:
+    version: "296.v5f6908f017a_5"
+- artifactId: "email-ext"
+  source:
+    version: "2.91"
+- artifactId: "github"
+  source:
+    version: "1.35.0"
+- artifactId: "build-timeout"
+  source:
+    version: "1.24"
+- artifactId: "configuration-as-code"
+  source:
+    version: "1512.vb_79d418d5fc8"
+- artifactId: "blueocean-personalization"
+  source:
+    version: "1.25.8"
+- artifactId: "mailer"
+  source:
+    version: "438.v02c7f0a_12fa_4"
+- artifactId: "jackson2-api"
+  source:
+    version: "2.13.3-285.vc03c0256d517"
+- artifactId: "blueocean-web"
+  source:
+    version: "1.25.8"
+- artifactId: "workflow-scm-step"
+  source:
+    version: "400.v6b_89a_1317c9a_"
+- artifactId: "ws-cleanup"
+  source:
+    version: "0.43"
+- artifactId: "jakarta-mail-api"
+  source:
+    version: "2.0.1-1"
+- artifactId: "blueocean-events"
+  source:
+    version: "1.25.8"
+- artifactId: "token-macro"
+  source:
+    version: "308.v4f2b_ed62b_b_16"
+- artifactId: "blueocean-i18n"
+  source:
+    version: "1.25.8"
+- artifactId: "favorite"
+  source:
+    version: "2.4.1"
+- artifactId: "momentjs"
+  source:
+    version: "1.1.1"
+- artifactId: "okhttp-api"
+  source:
+    version: "4.9.3-108.v0feda04578cf"
+- artifactId: "blueocean-rest"
+  source:
+    version: "1.25.8"
+- artifactId: "pipeline-stage-view"
+  source:
+    version: "2.24"
+- artifactId: "pipeline-build-step"
+  source:
+    version: "2.18"
+- artifactId: "pipeline-model-definition"
+  source:
+    version: "2.2114.v2654ca_721309"
+- artifactId: "instance-identity"
+  source:
+    version: "116.vf8f487400980"
+- artifactId: "resource-disposer"
+  source:
+    version: "0.20"
+- artifactId: "bouncycastle-api"
+  source:
+    version: "2.26"
+- artifactId: "jaxb"
+  source:
+    version: "2.3.6-1"
+- artifactId: "pam-auth"
+  source:
+    version: "1.10"
+- artifactId: "ace-editor"
+  source:
+    version: "1.1"
+- artifactId: "workflow-durable-task-step"
+  source:
+    version: "1199.v02b_9244f8064"
+- artifactId: "blueocean-pipeline-editor"
+  source:
+    version: "1.25.8"
+- artifactId: "ssh-credentials"
+  source:
+    version: "305.v8f4381501156"
+- artifactId: "workflow-job"
+  source:
+    version: "1232.v5a_4c994312f1"
+- artifactId: "workflow-basic-steps"
+  source:
+    version: "994.vd57e3ca_46d24"
+- artifactId: "jsch"
+  source:
+    version: "0.1.55.61.va_e9ee26616e7"
+- artifactId: "github-api"
+  source:
+    version: "1.303-400.v35c2d8258028"
+- artifactId: "echarts-api"
+  source:
+    version: "5.3.3-1"
+- artifactId: "workflow-cps"
+  source:
+    version: "2759.v87459c4eea_ca_"
+- artifactId: "matrix-auth"
+  source:
+    version: "3.1.5"
+- artifactId: "gradle"
+  source:
+    version: "1.39.4"
+- artifactId: "jjwt-api"
+  source:
+    version: "0.11.5-77.v646c772fddb_0"
+- artifactId: "blueocean-commons"
+  source:
+    version: "1.25.8"
+- artifactId: "sse-gateway"
+  source:
+    version: "1.26"
+- artifactId: "script-security"
+  source:
+    version: "1183.v774b_0b_0a_a_451"
+- artifactId: "blueocean-dashboard"
+  source:
+    version: "1.25.8"
+- artifactId: "blueocean-core-js"
+  source:
+    version: "1.25.8"
+- artifactId: "blueocean-github-pipeline"
+  source:
+    version: "1.25.8"
+- artifactId: "pipeline-milestone-step"
+  source:
+    version: "101.vd572fef9d926"
+- artifactId: "jakarta-activation-api"
+  source:
+    version: "2.0.1-1"
+- artifactId: "blueocean-jwt"
+  source:
+    version: "1.25.8"
+- artifactId: "trilead-api"
+  source:
+    version: "2.72.v2a_3236754f73"
+- artifactId: "ldap"
+  source:
+    version: "2.12"
+- artifactId: "handlebars"
+  source:
+    version: "3.0.8"
+- artifactId: "plugin-util-api"
+  source:
+    version: "2.17.0"
+- artifactId: "variant"
+  source:
+    version: "59.vf075fe829ccb"
+- artifactId: "font-awesome-api"
+  source:
+    version: "6.1.2-1"
+- artifactId: "pipeline-model-extensions"
+  source:
+    version: "2.2114.v2654ca_721309"
+- artifactId: "pipeline-groovy-lib"
+  source:
+    version: "612.v84da_9c54906d"
+- artifactId: "workflow-support"
+  source:
+    version: "838.va_3a_087b_4055b"
+- artifactId: "gitlab-branch-source"
+  source:
+    version: "640.v7101b_1c0def9"
+- artifactId: "checks-api"
+  source:
+    version: "1.7.5"
+- artifactId: "antisamy-markup-formatter"
+  source:
+    version: "2.7"
+- artifactId: "pipeline-rest-api"
+  source:
+    version: "2.24"
+- artifactId: "pipeline-model-api"
+  source:
+    version: "2.2114.v2654ca_721309"
+- artifactId: "blueocean-rest-impl"
+  source:
+    version: "1.25.8"
+- artifactId: "pipeline-input-step"
+  source:
+    version: "451.vf1a_a_4f405289"
+- artifactId: "jquery3-api"
+  source:
+    version: "3.6.0-4"
+- artifactId: "credentials-binding"
+  source:
+    version: "523.vd859a_4b_122e6"
+- artifactId: "blueocean-git-pipeline"
+  source:
+    version: "1.25.8"
+- artifactId: "workflow-aggregator"
+  source:
+    version: "590.v6a_d052e5a_a_b_5"
+- artifactId: "credentials"
+  source:
+    version: "1143.vb_e8b_b_ceee347"
+- artifactId: "blueocean-pipeline-scm-api"
+  source:
+    version: "1.25.8"
+- artifactId: "caffeine-api"
+  source:
+    version: "2.9.3-65.v6a_47d0f4d1fe"
+- artifactId: "workflow-step-api"
+  source:
+    version: "639.v6eca_cd8c04a_a_"
+- artifactId: "plain-credentials"
+  source:
+    version: "139.ved2b_9cf7587b"
+- artifactId: "matrix-project"
+  source:
+    version: "785.v06b_7f47b_c631"
+- artifactId: "git"
+  source:
+    version: "4.12.1"
+- artifactId: "bootstrap5-api"
+  source:
+    version: "5.2.0-3"
+- artifactId: "authentication-tokens"
+  source:
+    version: "1.4"
+- artifactId: "cloudbees-folder"
+  source:
+    version: "6.758.vfd75d09eea_a_1"
+- artifactId: "popper2-api"
+  source:
+    version: "2.11.6-1"
+- artifactId: "durable-task"
+  source:
+    version: "500.v8927d9fd99d8"
+- artifactId: "blueocean-autofavorite"
+  source:
+    version: "1.2.5"
+- artifactId: "timestamper"
+  source:
+    version: "1.20"
+- artifactId: "junit"
+  source:
+    version: "1119.1121.vc43d0fc45561"
+- artifactId: "pipeline-graph-analysis"
+  source:
+    version: "195.v5812d95a_a_2f9"
+- artifactId: "structs"
+  source:
+    version: "324.va_f5d6774f3a_d"
+- artifactId: "apache-httpcomponents-client-4-api"
+  source:
+    version: "4.5.13-138.v4e7d9a_7b_a_e61"
+- artifactId: "ant"
+  source:
+    version: "481.v7b_09e538fcca"
+- artifactId: "blueocean-bitbucket-pipeline"
+  source:
+    version: "1.25.8"
+- artifactId: "configuration-as-code-groovy"
+  source:
+    version: "1.1"
+- artifactId: "ssh-slaves"
+  source:
+    version: "2.846.v1b_70190624f5"
+- artifactId: "blueocean"
+  source:
+    version: "1.25.8"
+- artifactId: "htmlpublisher"
+  source:
+    version: "1.31"
+- artifactId: "handy-uri-templates-2-api"
+  source:
+    version: "2.1.8-22.v77d5b_75e6953"
+- artifactId: "cloudbees-bitbucket-branch-source"
+  source:
+    version: "791.vb_eea_a_476405b"
+- artifactId: "blueocean-display-url"
+  source:
+    version: "2.4.1"
+- artifactId: "display-url-api"
+  source:
+    version: "2.3.6"
+- artifactId: "jenkins-design-language"
+  source:
+    version: "1.25.8"
+- artifactId: "branch-api"
+  source:
+    version: "2.1046.v0ca_37783ecc5"
+- artifactId: "workflow-api"
+  source:
+    version: "1192.v2d0deb_19d212"
+- artifactId: "jersey2-api"
+  source:
+    version: "2.37-1"
+- artifactId: "pubsub-light"
+  source:
+    version: "1.17"
+
