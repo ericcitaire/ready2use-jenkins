@@ -247,7 +247,7 @@ plugins:
     version: "590.v6a_d052e5a_a_b_5"
 - artifactId: "credentials"
   source:
-    version: "1143.vb_e8b_b_ceee347"
+    version: "1189.vf61b_a_5e2f62e"
 - artifactId: "blueocean-pipeline-scm-api"
   source:
     version: "1.25.8"
