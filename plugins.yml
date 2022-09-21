@@ -235,7 +235,7 @@ plugins:
     version: "451.vf1a_a_4f405289"
 - artifactId: "jquery3-api"
   source:
-    version: "3.6.0-4"
+    version: "3.6.1-1"
 - artifactId: "credentials-binding"
   source:
     version: "523.vd859a_4b_122e6"
