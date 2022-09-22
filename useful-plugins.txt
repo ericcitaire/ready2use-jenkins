@@ -1,0 +1,12 @@
+ansicolor
+blueocean
+build-monitor-plugin
+configuration-as-code
+configuration-as-code-groovy
+docker-workflow
+gitlab-branch-source
+http_request
+job-dsl
+lockable-resources
+pipeline-utility-steps
+ssh-agent

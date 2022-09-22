@@ -13,7 +13,9 @@ suggested_plugins_url="https://raw.githubusercontent.com/jenkinsci/jenkins/jenki
 
 suggested_plugins=$(curl -fsSL "${suggested_plugins_url}" | jq --raw-output '.[].plugins[] | select(.suggested) | .name' | xargs)
 
-docker exec -it jenkins-plugins /bin/sh -c "jenkins-plugin-cli --plugins ${suggested_plugins} gitlab-branch-source docker-workflow blueocean job-dsl configuration-as-code configuration-as-code-groovy build-monitor-plugin http_request pipeline-utility-steps ssh-agent ansicolor"
+useful_plugins=$(cat useful-plugins.txt | xargs)
+
+docker exec -it jenkins-plugins /bin/sh -c "jenkins-plugin-cli --plugins ${suggested_plugins} ${useful_plugins}"
 
 docker exec -it jenkins-plugins /bin/sh -c "jenkins-plugin-cli --list --output YAML > /tmp/plugins.yml"
 

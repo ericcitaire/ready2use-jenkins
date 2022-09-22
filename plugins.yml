@@ -77,6 +77,9 @@ plugins:
 - artifactId: "token-macro"
   source:
     version: "308.v4f2b_ed62b_b_16"
+- artifactId: "lockable-resources"
+  source:
+    version: "2.16"
 - artifactId: "http_request"
   source:
     version: "1.16"
