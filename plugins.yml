@@ -268,7 +268,7 @@ plugins:
     version: "4.12.1"
 - artifactId: "bootstrap5-api"
   source:
-    version: "5.2.1-1"
+    version: "5.2.1-2"
 - artifactId: "authentication-tokens"
   source:
     version: "1.4"
