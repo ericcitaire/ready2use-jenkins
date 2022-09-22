@@ -77,6 +77,9 @@ plugins:
 - artifactId: "token-macro"
   source:
     version: "308.v4f2b_ed62b_b_16"
+- artifactId: "http_request"
+  source:
+    version: "1.16"
 - artifactId: "blueocean-i18n"
   source:
     version: "1.25.8"
@@ -167,6 +170,9 @@ plugins:
 - artifactId: "script-security"
   source:
     version: "1183.v774b_0b_0a_a_451"
+- artifactId: "build-monitor-plugin"
+  source:
+    version: "1.13+build.202205140447"
 - artifactId: "blueocean-dashboard"
   source:
     version: "1.25.8"
@@ -188,6 +194,9 @@ plugins:
 - artifactId: "trilead-api"
   source:
     version: "2.72.v2a_3236754f73"
+- artifactId: "job-dsl"
+  source:
+    version: "1.81"
 - artifactId: "ldap"
   source:
     version: "2.12"
@@ -233,9 +242,15 @@ plugins:
 - artifactId: "pipeline-input-step"
   source:
     version: "451.vf1a_a_4f405289"
+- artifactId: "pipeline-utility-steps"
+  source:
+    version: "2.13.0"
 - artifactId: "jquery3-api"
   source:
     version: "3.6.1-1"
+- artifactId: "ssh-agent"
+  source:
+    version: "295.v9ca_a_1c7cc3a_a_"
 - artifactId: "credentials-binding"
   source:
     version: "523.vd859a_4b_122e6"
@@ -320,6 +335,9 @@ plugins:
 - artifactId: "handy-uri-templates-2-api"
   source:
     version: "2.1.8-22.v77d5b_75e6953"
+- artifactId: "ansicolor"
+  source:
+    version: "1.0.2"
 - artifactId: "cloudbees-bitbucket-branch-source"
   source:
     version: "791.vb_eea_a_476405b"
