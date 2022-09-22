@@ -10,7 +10,7 @@ plugins:
     version: "1695.v88de84e9f6b_9"
 - artifactId: "snakeyaml-api"
   source:
-    version: "1.31-84.ve43da_fb_49d0b"
+    version: "1.32-86.ve3f030a_75631"
 - artifactId: "pipeline-github-lib"
   source:
     version: "38.v445716ea_edda_"
