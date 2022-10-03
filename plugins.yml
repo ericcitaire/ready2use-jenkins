@@ -298,7 +298,7 @@ plugins:
     version: "6.758.vfd75d09eea_a_1"
 - artifactId: "popper2-api"
   source:
-    version: "2.11.6-1"
+    version: "2.11.6-2"
 - artifactId: "durable-task"
   source:
     version: "500.v8927d9fd99d8"
