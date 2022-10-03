@@ -70,7 +70,7 @@ plugins:
     version: "0.43"
 - artifactId: "jakarta-mail-api"
   source:
-    version: "2.0.1-1"
+    version: "2.0.1-2"
 - artifactId: "blueocean-events"
   source:
     version: "1.25.8"
