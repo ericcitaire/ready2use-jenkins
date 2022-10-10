@@ -58,7 +58,7 @@ plugins:
     version: "438.v02c7f0a_12fa_4"
 - artifactId: "jackson2-api"
   source:
-    version: "2.13.3-285.vc03c0256d517"
+    version: "2.13.4-293.vee957901b_6fb"
 - artifactId: "blueocean-web"
   source:
     version: "1.25.8"
