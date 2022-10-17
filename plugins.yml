@@ -361,7 +361,7 @@ plugins:
     version: "2.1046.v0ca_37783ecc5"
 - artifactId: "workflow-api"
   source:
-    version: "1198.v4596ea_5329b_6"
+    version: "1200.v8005c684b_a_c6"
 - artifactId: "jersey2-api"
   source:
     version: "2.37-1"
