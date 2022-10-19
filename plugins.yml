@@ -100,7 +100,7 @@ plugins:
     version: "1.25.8"
 - artifactId: "pipeline-stage-view"
   source:
-    version: "2.25"
+    version: "2.26"
 - artifactId: "pipeline-build-step"
   source:
     version: "2.18"
@@ -200,15 +200,15 @@ plugins:
 - artifactId: "trilead-api"
   source:
     version: "2.72.v2a_3236754f73"
+- artifactId: "commons-text-api"
+  source:
+    version: "1.10.0-27.vb_fa_3896786a_7"
 - artifactId: "job-dsl"
   source:
     version: "1.81"
 - artifactId: "ldap"
   source:
     version: "2.12"
-- artifactId: "handlebars"
-  source:
-    version: "3.0.8"
 - artifactId: "plugin-util-api"
   source:
     version: "2.18.0"
@@ -301,7 +301,7 @@ plugins:
     version: "2.11.6-2"
 - artifactId: "durable-task"
   source:
-    version: "500.v8927d9fd99d8"
+    version: "501.ve5d4fc08b0be"
 - artifactId: "blueocean-autofavorite"
   source:
     version: "1.2.5"
@@ -353,6 +353,9 @@ plugins:
 - artifactId: "display-url-api"
   source:
     version: "2.3.6"
+- artifactId: "commons-lang3-api"
+  source:
+    version: "3.12.0-36.vd97de6465d5b_"
 - artifactId: "jenkins-design-language"
   source:
     version: "1.25.8"
