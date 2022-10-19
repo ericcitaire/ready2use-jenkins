@@ -241,7 +241,7 @@ plugins:
     version: "2.26"
 - artifactId: "pipeline-model-api"
   source:
-    version: "2.2114.v2654ca_721309"
+    version: "2.2118.v31fd5b_9944b_5"
 - artifactId: "blueocean-rest-impl"
   source:
     version: "1.25.8"
