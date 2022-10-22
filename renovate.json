@@ -12,6 +12,32 @@
         "pipeline-model-extensions"
       ],
       "groupName": "Declarative Jenkins Pipelines"
+    },
+    {
+      "matchPackageNames": [
+        "jenkins-design-language",
+        "blueocean-core-js",
+        "blueocean-commons",
+        "blueocean-i18n",
+        "blueocean-web",
+        "blueocean-rest",
+        "blueocean-pipeline-scm-api",
+        "blueocean-rest-impl",
+        "blueocean-pipeline-api-impl",
+        "blueocean-events",
+        "blueocean-dashboard",
+        "blueocean-personalization",
+        "blueocean-config",
+        "blueocean",
+        "blueocean-jwt",
+        "blueocean-github-pipeline",
+        "blueocean-git-pipeline",
+        "blueocean-bitbucket-pipeline",
+        "blueocean-pipeline-editor",
+        "blueocean-jira",
+        "blueocean-executor-info"
+      ],
+      "groupName": "Blue Ocean"
     }
   ]
 }
