@@ -25,7 +25,7 @@ plugins:
     version: "521.v1a_a_dd2073b_2e"
 - artifactId: "pipeline-stage-tags-metadata"
   source:
-    version: "2.2114.v2654ca_721309"
+    version: "2.2118.v31fd5b_9944b_5"
 - artifactId: "javax-activation-api"
   source:
     version: "1.2.0-5"
