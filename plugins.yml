@@ -106,7 +106,7 @@ plugins:
     version: "2.18"
 - artifactId: "pipeline-model-definition"
   source:
-    version: "2.2114.v2654ca_721309"
+    version: "2.2118.v31fd5b_9944b_5"
 - artifactId: "instance-identity"
   source:
     version: "116.vf8f487400980"
