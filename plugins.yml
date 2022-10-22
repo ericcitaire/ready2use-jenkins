@@ -238,7 +238,7 @@ plugins:
     version: "2.7"
 - artifactId: "pipeline-rest-api"
   source:
-    version: "2.26"
+    version: "2.27"
 - artifactId: "pipeline-model-api"
   source:
     version: "2.2118.v31fd5b_9944b_5"
