@@ -118,7 +118,7 @@ plugins:
     version: "2.26"
 - artifactId: "jaxb"
   source:
-    version: "2.3.6-2"
+    version: "2.3.7-1"
 - artifactId: "pam-auth"
   source:
     version: "1.10"
