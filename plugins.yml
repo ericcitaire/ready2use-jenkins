@@ -22,7 +22,7 @@ plugins:
     version: "716.vc692a_e52371b_"
 - artifactId: "docker-workflow"
   source:
-    version: "521.v1a_a_dd2073b_2e"
+    version: "528.v7c193a_0b_e67c"
 - artifactId: "pipeline-stage-tags-metadata"
   source:
     version: "2.2118.v31fd5b_9944b_5"
