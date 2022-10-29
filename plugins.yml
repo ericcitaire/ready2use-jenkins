@@ -232,7 +232,7 @@ plugins:
     version: "642.v9ed86b_b_54384"
 - artifactId: "checks-api"
   source:
-    version: "1.7.5"
+    version: "1.8.0"
 - artifactId: "antisamy-markup-formatter"
   source:
     version: "2.7"
