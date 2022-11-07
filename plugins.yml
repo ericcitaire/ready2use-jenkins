@@ -235,7 +235,7 @@ plugins:
     version: "1.8.0"
 - artifactId: "antisamy-markup-formatter"
   source:
-    version: "2.7"
+    version: "155.v795fb_8702324"
 - artifactId: "pipeline-rest-api"
   source:
     version: "2.27"
