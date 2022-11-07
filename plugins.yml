@@ -223,7 +223,7 @@ plugins:
     version: "2.2118.v31fd5b_9944b_5"
 - artifactId: "pipeline-groovy-lib"
   source:
-    version: "612.614.v48dcb_f62a_640"
+    version: "613.v9c41a_160233f"
 - artifactId: "workflow-support"
   source:
     version: "839.v35e2736cfd5c"
