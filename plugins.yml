@@ -310,7 +310,7 @@ plugins:
     version: "1.21"
 - artifactId: "junit"
   source:
-    version: "1159.v0b_396e1e07dd"
+    version: "1160.vf1f01a_a_ea_b_7f"
 - artifactId: "pipeline-graph-analysis"
   source:
     version: "195.v5812d95a_a_2f9"
