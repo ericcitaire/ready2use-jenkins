@@ -38,6 +38,13 @@
         "blueocean-executor-info"
       ],
       "groupName": "Blue Ocean"
+    },
+    {
+      "matchPackageNames": [
+        "pipeline-stage-view",
+        "pipeline-rest-api"
+      ],
+      "groupName": "Pipeline Stage View Plugin"
     }
   ]
 }
