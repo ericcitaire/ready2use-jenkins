@@ -286,7 +286,7 @@ plugins:
     version: "785.v06b_7f47b_c631"
 - artifactId: "git"
   source:
-    version: "4.14.0"
+    version: "4.14.1"
 - artifactId: "bootstrap5-api"
   source:
     version: "5.2.1-3"
