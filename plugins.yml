@@ -229,7 +229,7 @@ plugins:
     version: "839.v35e2736cfd5c"
 - artifactId: "gitlab-branch-source"
   source:
-    version: "642.v9ed86b_b_54384"
+    version: "643.vdc12a_4a_06434"
 - artifactId: "checks-api"
   source:
     version: "1.8.0"
