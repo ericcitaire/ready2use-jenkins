@@ -211,7 +211,7 @@ plugins:
     version: "2.12"
 - artifactId: "plugin-util-api"
   source:
-    version: "2.18.0"
+    version: "2.20.0"
 - artifactId: "variant"
   source:
     version: "59.vf075fe829ccb"
