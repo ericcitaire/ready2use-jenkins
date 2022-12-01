@@ -137,6 +137,9 @@ plugins:
 - artifactId: "ssh-credentials"
   source:
     version: "305.v8f4381501156"
+- artifactId: "data-tables-api"
+  source:
+    version: "1.12.1-4"
 - artifactId: "workflow-job"
   source:
     version: "1254.v3f64639b_11dd"
@@ -211,7 +214,7 @@ plugins:
     version: "2.12"
 - artifactId: "plugin-util-api"
   source:
-    version: "2.18.0"
+    version: "2.20.0"
 - artifactId: "variant"
   source:
     version: "59.vf075fe829ccb"
@@ -268,7 +271,7 @@ plugins:
     version: "590.v6a_d052e5a_a_b_5"
 - artifactId: "credentials"
   source:
-    version: "1189.vf61b_a_5e2f62e"
+    version: "1214.v1de940103927"
 - artifactId: "blueocean-pipeline-scm-api"
   source:
     version: "1.25.8"
@@ -350,12 +353,12 @@ plugins:
 - artifactId: "blueocean-display-url"
   source:
     version: "2.4.1"
-- artifactId: "display-url-api"
-  source:
-    version: "2.3.6"
 - artifactId: "commons-lang3-api"
   source:
     version: "3.12.0-36.vd97de6465d5b_"
+- artifactId: "display-url-api"
+  source:
+    version: "2.3.6"
 - artifactId: "jenkins-design-language"
   source:
     version: "1.25.8"
