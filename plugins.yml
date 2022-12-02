@@ -109,7 +109,7 @@ plugins:
     version: "2.2118.v31fd5b_9944b_5"
 - artifactId: "instance-identity"
   source:
-    version: "116.vf8f487400980"
+    version: "142.v04572ca_5b_265"
 - artifactId: "resource-disposer"
   source:
     version: "0.20"
