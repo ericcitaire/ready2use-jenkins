@@ -67,7 +67,7 @@ plugins:
     version: "400.v6b_89a_1317c9a_"
 - artifactId: "ws-cleanup"
   source:
-    version: "0.43"
+    version: "0.44"
 - artifactId: "jakarta-mail-api"
   source:
     version: "2.0.1-2"
