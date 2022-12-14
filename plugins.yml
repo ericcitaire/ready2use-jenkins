@@ -235,7 +235,7 @@ plugins:
     version: "643.vdc12a_4a_06434"
 - artifactId: "checks-api"
   source:
-    version: "1.8.0"
+    version: "1.8.1"
 - artifactId: "antisamy-markup-formatter"
   source:
     version: "155.v795fb_8702324"
