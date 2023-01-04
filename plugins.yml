@@ -43,7 +43,7 @@ plugins:
     version: "2.92"
 - artifactId: "github"
   source:
-    version: "1.36.0"
+    version: "1.36.1"
 - artifactId: "build-timeout"
   source:
     version: "1.25"
