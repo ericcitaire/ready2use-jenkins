@@ -40,7 +40,7 @@ plugins:
     version: "296.v5f6908f017a_5"
 - artifactId: "email-ext"
   source:
-    version: "2.92"
+    version: "2.93"
 - artifactId: "github"
   source:
     version: "1.36.0"
