@@ -364,7 +364,7 @@ plugins:
     version: "1.27.0"
 - artifactId: "branch-api"
   source:
-    version: "2.1051.v9985666b_f6cc"
+    version: "2.1071.v1a_188a_562481"
 - artifactId: "workflow-api"
   source:
     version: "1200.v8005c684b_a_c6"
