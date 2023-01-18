@@ -130,7 +130,7 @@ plugins:
     version: "1.21"
 - artifactId: "workflow-durable-task-step"
   source:
-    version: "1217.v38306d8fa_b_5c"
+    version: "1223.v7f1a_98a_8863e"
 - artifactId: "blueocean-pipeline-editor"
   source:
     version: "1.26.0"
