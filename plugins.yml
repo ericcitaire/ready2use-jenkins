@@ -316,7 +316,7 @@ plugins:
     version: "1166.va_436e268e972"
 - artifactId: "pipeline-graph-analysis"
   source:
-    version: "195.v5812d95a_a_2f9"
+    version: "202.va_d268e64deb_3"
 - artifactId: "structs"
   source:
     version: "324.va_f5d6774f3a_d"
