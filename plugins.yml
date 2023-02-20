@@ -163,7 +163,7 @@ plugins:
     version: "3.1.6"
 - artifactId: "gradle"
   source:
-    version: "2.2"
+    version: "2.3"
 - artifactId: "jjwt-api"
   source:
     version: "0.11.5-77.v646c772fddb_0"
