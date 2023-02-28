@@ -28,7 +28,7 @@ plugins:
     version: "2.2118.v31fd5b_9944b_5"
 - artifactId: "javax-activation-api"
   source:
-    version: "1.2.0-5"
+    version: "1.2.0-6"
 - artifactId: "git-client"
   source:
     version: "4.1.0"
