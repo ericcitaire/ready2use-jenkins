@@ -205,7 +205,7 @@ plugins:
     version: "2.84.v72119de229b_7"
 - artifactId: "commons-text-api"
   source:
-    version: "1.10.0-27.vb_fa_3896786a_7"
+    version: "1.10.0-36.vc008c8fcda_7b_"
 - artifactId: "job-dsl"
   source:
     version: "1.81"
