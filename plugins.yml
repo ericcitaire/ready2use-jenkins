@@ -370,7 +370,7 @@ plugins:
     version: "1208.v0cc7c6e0da_9e"
 - artifactId: "jersey2-api"
   source:
-    version: "2.38-1"
+    version: "2.39-1"
 - artifactId: "pubsub-light"
   source:
     version: "1.17"
