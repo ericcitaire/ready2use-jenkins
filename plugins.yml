@@ -298,7 +298,7 @@ plugins:
     version: "1.4"
 - artifactId: "cloudbees-folder"
   source:
-    version: "6.800.v71307ca_b_986b"
+    version: "6.815.v0dd5a_cb_40e0e"
 - artifactId: "popper2-api"
   source:
     version: "2.11.6-2"
