@@ -79,7 +79,7 @@ plugins:
     version: "321.vd7cc1f2a_52c8"
 - artifactId: "lockable-resources"
   source:
-    version: "1123.v4002ee23c671"
+    version: "1131.vb_7c3d377e723"
 - artifactId: "http_request"
   source:
     version: "1.16"
