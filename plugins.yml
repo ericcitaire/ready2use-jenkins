@@ -142,7 +142,7 @@ plugins:
     version: "1.12.1-4"
 - artifactId: "workflow-job"
   source:
-    version: "1268.v6eb_e2ee1a_85a"
+    version: "1284.v2fe8ed4573d4"
 - artifactId: "workflow-basic-steps"
   source:
     version: "994.vd57e3ca_46d24"
