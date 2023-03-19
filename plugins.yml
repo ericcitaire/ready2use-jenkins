@@ -94,7 +94,7 @@ plugins:
     version: "1.1.1"
 - artifactId: "okhttp-api"
   source:
-    version: "4.10.0-125.v3593b_a_f8c97b_"
+    version: "4.10.0-132.v7a_7b_91cef39c"
 - artifactId: "blueocean-rest"
   source:
     version: "1.27.3"
