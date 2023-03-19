@@ -259,7 +259,7 @@ plugins:
     version: "3.6.3-1"
 - artifactId: "ssh-agent"
   source:
-    version: "295.v9ca_a_1c7cc3a_a_"
+    version: "327.v230ecd01f86f"
 - artifactId: "credentials-binding"
   source:
     version: "523.vd859a_4b_122e6"
