@@ -268,7 +268,7 @@ plugins:
     version: "1.27.3"
 - artifactId: "workflow-aggregator"
   source:
-    version: "590.v6a_d052e5a_a_b_5"
+    version: "596.v8c21c963d92d"
 - artifactId: "credentials"
   source:
     version: "1224.vc23ca_a_9a_2cb_0"
