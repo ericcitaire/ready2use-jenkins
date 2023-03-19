@@ -145,7 +145,7 @@ plugins:
     version: "1284.v2fe8ed4573d4"
 - artifactId: "workflow-basic-steps"
   source:
-    version: "994.vd57e3ca_46d24"
+    version: "1010.vf7a_b_98e847c1"
 - artifactId: "jsch"
   source:
     version: "0.1.55.61.va_e9ee26616e7"
