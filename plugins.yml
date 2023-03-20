@@ -349,7 +349,7 @@ plugins:
     version: "1.0.2"
 - artifactId: "cloudbees-bitbucket-branch-source"
   source:
-    version: "796.v6cb_1559e1673"
+    version: "800.va_b_b_9a_a_5035c1"
 - artifactId: "blueocean-display-url"
   source:
     version: "2.4.1"
