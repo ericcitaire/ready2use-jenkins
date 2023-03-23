@@ -49,7 +49,7 @@ plugins:
     version: "1.28"
 - artifactId: "configuration-as-code"
   source:
-    version: "1569.vb_72405b_80249"
+    version: "1612.v1d254764cf6b"
 - artifactId: "blueocean-personalization"
   source:
     version: "1.27.3"
