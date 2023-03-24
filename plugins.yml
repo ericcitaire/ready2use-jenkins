@@ -64,7 +64,7 @@ plugins:
     version: "1.27.3"
 - artifactId: "workflow-scm-step"
   source:
-    version: "400.v6b_89a_1317c9a_"
+    version: "408.v7d5b_135a_b_d49"
 - artifactId: "ws-cleanup"
   source:
     version: "0.44"
