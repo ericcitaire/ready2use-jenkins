@@ -220,7 +220,7 @@ plugins:
     version: "59.vf075fe829ccb"
 - artifactId: "font-awesome-api"
   source:
-    version: "6.3.0-1"
+    version: "6.3.0-2"
 - artifactId: "pipeline-model-extensions"
   source:
     version: "2.2125.vddb_a_44a_d605e"
