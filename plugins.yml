@@ -295,7 +295,7 @@ plugins:
     version: "5.2.2-2"
 - artifactId: "authentication-tokens"
   source:
-    version: "1.4"
+    version: "1.53.v1c90fd9191a_b_"
 - artifactId: "cloudbees-folder"
   source:
     version: "6.815.v0dd5a_cb_40e0e"
