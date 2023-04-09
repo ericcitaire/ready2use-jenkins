@@ -112,7 +112,7 @@ plugins:
     version: "142.v04572ca_5b_265"
 - artifactId: "resource-disposer"
   source:
-    version: "0.21"
+    version: "0.22"
 - artifactId: "bouncycastle-api"
   source:
     version: "2.27"
