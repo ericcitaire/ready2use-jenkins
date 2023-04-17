@@ -181,7 +181,7 @@ plugins:
     version: "1229.v4880b_b_e905a_6"
 - artifactId: "build-monitor-plugin"
   source:
-    version: "1.13+build.202205140447"
+    version: "1.14-681.vd6817317a_2b_7"
 - artifactId: "blueocean-dashboard"
   source:
     version: "1.27.3"
