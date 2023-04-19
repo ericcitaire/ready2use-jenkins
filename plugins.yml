@@ -325,7 +325,7 @@ plugins:
     version: "4.5.14-150.v7a_b_9d17134a_5"
 - artifactId: "ant"
   source:
-    version: "481.v7b_09e538fcca"
+    version: "487.vd79d090d4ea_e"
 - artifactId: "blueocean-bitbucket-pipeline"
   source:
     version: "1.27.3"
