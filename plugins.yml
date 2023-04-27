@@ -352,7 +352,7 @@ plugins:
     version: "800.va_b_b_9a_a_5035c1"
 - artifactId: "blueocean-display-url"
   source:
-    version: "2.4.1"
+    version: "2.4.2"
 - artifactId: "commons-lang3-api"
   source:
     version: "3.12.0-36.vd97de6465d5b_"
