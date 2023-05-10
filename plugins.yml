@@ -277,7 +277,7 @@ plugins:
     version: "1.27.3"
 - artifactId: "caffeine-api"
   source:
-    version: "2.9.3-65.v6a_47d0f4d1fe"
+    version: "2.9.3-111.va_4034a_92d8b_c"
 - artifactId: "workflow-step-api"
   source:
     version: "639.v6eca_cd8c04a_a_"
