@@ -148,7 +148,7 @@ plugins:
     version: "1010.vf7a_b_98e847c1"
 - artifactId: "jsch"
   source:
-    version: "0.1.55.61.va_e9ee26616e7"
+    version: "0.2.8-65.v052c39de79b_2"
 - artifactId: "github-api"
   source:
     version: "1.303-417.ve35d9dd78549"
