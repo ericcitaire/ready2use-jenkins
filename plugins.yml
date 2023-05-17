@@ -304,7 +304,7 @@ plugins:
     version: "2.11.6-2"
 - artifactId: "durable-task"
   source:
-    version: "506.v1b_3e14b_6f5da_"
+    version: "507.v050055d0cb_dd"
 - artifactId: "blueocean-autofavorite"
   source:
     version: "1.2.5"
