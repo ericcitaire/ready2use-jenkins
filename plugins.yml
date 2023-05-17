@@ -289,7 +289,7 @@ plugins:
     version: "789.v57a_725b_63c79"
 - artifactId: "git"
   source:
-    version: "5.0.0"
+    version: "5.0.2"
 - artifactId: "bootstrap5-api"
   source:
     version: "5.2.2-3"
