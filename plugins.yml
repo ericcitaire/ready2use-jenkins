@@ -19,7 +19,7 @@ plugins:
     version: "1.27.3"
 - artifactId: "workflow-multibranch"
   source:
-    version: "733.v109046189126"
+    version: "746.v05814d19c001"
 - artifactId: "docker-workflow"
   source:
     version: "563.vd5d2e5c4007f"
