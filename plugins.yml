@@ -4,7 +4,7 @@ plugins:
     version: "5.2.0-86.v1ed41a_9cf486"
 - artifactId: "blueocean-config"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "github-branch-source"
   source:
     version: "1703.vd5a_2b_29c6cdc"
@@ -16,7 +16,7 @@ plugins:
     version: "42.v0739460cda_c4"
 - artifactId: "blueocean-pipeline-api-impl"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "workflow-multibranch"
   source:
     version: "746.v05814d19c001"
@@ -52,7 +52,7 @@ plugins:
     version: "1625.v27444588cc3d"
 - artifactId: "blueocean-personalization"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "mailer"
   source:
     version: "448.v5b_97805e3767"
@@ -61,7 +61,7 @@ plugins:
     version: "2.15.1-344.v6eb_55303dc3e"
 - artifactId: "blueocean-web"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "workflow-scm-step"
   source:
     version: "408.v7d5b_135a_b_d49"
@@ -73,7 +73,7 @@ plugins:
     version: "2.0.1-3"
 - artifactId: "blueocean-events"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "token-macro"
   source:
     version: "359.vb_cde11682e0c"
@@ -85,7 +85,7 @@ plugins:
     version: "1.16"
 - artifactId: "blueocean-i18n"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "favorite"
   source:
     version: "2.4.1"
@@ -97,7 +97,7 @@ plugins:
     version: "4.10.0-132.v7a_7b_91cef39c"
 - artifactId: "blueocean-rest"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "pipeline-stage-view"
   source:
     version: "2.32"
@@ -133,7 +133,7 @@ plugins:
     version: "1246.v5524618ea_097"
 - artifactId: "blueocean-pipeline-editor"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "ssh-credentials"
   source:
     version: "305.v8f4381501156"
@@ -172,7 +172,7 @@ plugins:
     version: "45.vf54fca_5d2154"
 - artifactId: "blueocean-commons"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "sse-gateway"
   source:
     version: "1.26"
@@ -184,13 +184,13 @@ plugins:
     version: "1.14-702.vf34cc4398955"
 - artifactId: "blueocean-dashboard"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "blueocean-core-js"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "blueocean-github-pipeline"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "pipeline-milestone-step"
   source:
     version: "111.v449306f708b_7"
@@ -199,7 +199,7 @@ plugins:
     version: "2.0.1-3"
 - artifactId: "blueocean-jwt"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "trilead-api"
   source:
     version: "2.84.v72119de229b_7"
@@ -247,7 +247,7 @@ plugins:
     version: "2.2131.vb_9788088fdb_5"
 - artifactId: "blueocean-rest-impl"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "pipeline-input-step"
   source:
     version: "468.va_5db_051498a_4"
@@ -265,7 +265,7 @@ plugins:
     version: "604.vb_64480b_c56ca_"
 - artifactId: "blueocean-git-pipeline"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "workflow-aggregator"
   source:
     version: "596.v8c21c963d92d"
@@ -274,7 +274,7 @@ plugins:
     version: "1254.vb_96f366e7b_a_d"
 - artifactId: "blueocean-pipeline-scm-api"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "caffeine-api"
   source:
     version: "3.1.6-115.vb_8b_b_328e59d8"
@@ -328,7 +328,7 @@ plugins:
     version: "487.vd79d090d4ea_e"
 - artifactId: "blueocean-bitbucket-pipeline"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "configuration-as-code-groovy"
   source:
     version: "1.1"
@@ -337,7 +337,7 @@ plugins:
     version: "2.877.v365f5eb_a_b_eec"
 - artifactId: "blueocean"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "htmlpublisher"
   source:
     version: "1.31"
@@ -361,7 +361,7 @@ plugins:
     version: "2.3.7"
 - artifactId: "jenkins-design-language"
   source:
-    version: "1.27.3"
+    version: "1.27.4"
 - artifactId: "branch-api"
   source:
     version: "2.1092.vda_3c2a_a_f0c11"
