@@ -154,7 +154,7 @@ plugins:
     version: "1.314-431.v78d72a_3fe4c3"
 - artifactId: "echarts-api"
   source:
-    version: "5.4.0-3"
+    version: "5.4.0-4"
 - artifactId: "workflow-cps"
   source:
     version: "3659.v582dc37621d8"
