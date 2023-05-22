@@ -169,7 +169,7 @@ plugins:
     version: "0.11.5-77.v646c772fddb_0"
 - artifactId: "ionicons-api"
   source:
-    version: "55.vdc6562f64de3"
+    version: "56.v1b_1c8c49374e"
 - artifactId: "blueocean-commons"
   source:
     version: "1.27.4"
