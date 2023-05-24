@@ -115,7 +115,7 @@ plugins:
     version: "0.22"
 - artifactId: "bouncycastle-api"
   source:
-    version: "2.27"
+    version: "2.28"
 - artifactId: "jaxb"
   source:
     version: "2.3.8-1"
