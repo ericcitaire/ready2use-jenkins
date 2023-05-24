@@ -25,7 +25,7 @@ plugins:
     version: "563.vd5d2e5c4007f"
 - artifactId: "pipeline-stage-tags-metadata"
   source:
-    version: "2.2131.vb_9788088fdb_5"
+    version: "2.2133.ve46a_6113dfc3"
 - artifactId: "javax-activation-api"
   source:
     version: "1.2.0-6"
@@ -106,7 +106,7 @@ plugins:
     version: "491.v1fec530da_858"
 - artifactId: "pipeline-model-definition"
   source:
-    version: "2.2131.vb_9788088fdb_5"
+    version: "2.2133.ve46a_6113dfc3"
 - artifactId: "instance-identity"
   source:
     version: "142.v04572ca_5b_265"
@@ -223,7 +223,7 @@ plugins:
     version: "6.3.0-2"
 - artifactId: "pipeline-model-extensions"
   source:
-    version: "2.2131.vb_9788088fdb_5"
+    version: "2.2133.ve46a_6113dfc3"
 - artifactId: "pipeline-groovy-lib"
   source:
     version: "656.va_a_ceeb_6ffb_f7"
@@ -244,7 +244,7 @@ plugins:
     version: "2.32"
 - artifactId: "pipeline-model-api"
   source:
-    version: "2.2131.vb_9788088fdb_5"
+    version: "2.2133.ve46a_6113dfc3"
 - artifactId: "blueocean-rest-impl"
   source:
     version: "1.27.4"
