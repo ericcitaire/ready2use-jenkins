@@ -55,7 +55,7 @@ plugins:
     version: "1.27.4"
 - artifactId: "mailer"
   source:
-    version: "448.v5b_97805e3767"
+    version: "457.v3f72cb_e015e5"
 - artifactId: "jackson2-api"
   source:
     version: "2.15.1-344.v6eb_55303dc3e"
