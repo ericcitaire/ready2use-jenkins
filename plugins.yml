@@ -31,7 +31,7 @@ plugins:
     version: "1.2.0-6"
 - artifactId: "git-client"
   source:
-    version: "4.2.0"
+    version: "4.3.0"
 - artifactId: "scm-api"
   source:
     version: "672.v64378a_b_20c60"
