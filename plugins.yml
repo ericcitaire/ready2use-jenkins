@@ -214,7 +214,7 @@ plugins:
     version: "682.v7b_544c9d1512"
 - artifactId: "plugin-util-api"
   source:
-    version: "3.2.1"
+    version: "3.3.0"
 - artifactId: "variant"
   source:
     version: "59.vf075fe829ccb"
