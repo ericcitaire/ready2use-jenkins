@@ -1,7 +1,7 @@
 plugins:
 - artifactId: "gitlab-api"
   source:
-    version: "5.2.0-86.v1ed41a_9cf486"
+    version: "5.3.0-91.v1f9a_fda_d654f"
 - artifactId: "blueocean-config"
   source:
     version: "1.27.4"
