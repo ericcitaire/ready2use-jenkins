@@ -7,7 +7,7 @@ plugins:
     version: "1.27.4"
 - artifactId: "github-branch-source"
   source:
-    version: "1703.vd5a_2b_29c6cdc"
+    version: "1728.v859147241f49"
 - artifactId: "snakeyaml-api"
   source:
     version: "1.33-95.va_b_a_e3e47b_fa_4"
