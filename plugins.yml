@@ -313,7 +313,7 @@ plugins:
     version: "1.25"
 - artifactId: "junit"
   source:
-    version: "1207.va_09d5100410f"
+    version: "1214.va_2f9db_3e6de0"
 - artifactId: "pipeline-graph-analysis"
   source:
     version: "202.va_d268e64deb_3"
