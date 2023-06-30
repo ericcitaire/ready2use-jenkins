@@ -34,7 +34,7 @@ plugins:
     version: "4.3.0"
 - artifactId: "scm-api"
   source:
-    version: "672.v64378a_b_20c60"
+    version: "676.v886669a_199a_a_"
 - artifactId: "pipeline-stage-step"
   source:
     version: "305.ve96d0205c1c6"
