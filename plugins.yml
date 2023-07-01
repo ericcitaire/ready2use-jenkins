@@ -82,7 +82,7 @@ plugins:
     version: "1172.v4b_8fc8eed570"
 - artifactId: "http_request"
   source:
-    version: "1.17"
+    version: "1.18"
 - artifactId: "blueocean-i18n"
   source:
     version: "1.27.4"
