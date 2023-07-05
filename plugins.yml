@@ -2,6 +2,9 @@ plugins:
 - artifactId: "gitlab-api"
   source:
     version: "5.3.0-91.v1f9a_fda_d654f"
+- artifactId: "mina-sshd-api-core"
+  source:
+    version: "2.10.0-69.v28e3e36d18eb_"
 - artifactId: "blueocean-config"
   source:
     version: "1.27.4"
@@ -89,9 +92,6 @@ plugins:
 - artifactId: "favorite"
   source:
     version: "2.4.2"
-- artifactId: "momentjs"
-  source:
-    version: "1.1.1"
 - artifactId: "okhttp-api"
   source:
     version: "4.11.0-145.vcb_8de402ef81"
@@ -122,9 +122,6 @@ plugins:
 - artifactId: "pam-auth"
   source:
     version: "1.10"
-- artifactId: "ace-editor"
-  source:
-    version: "1.1"
 - artifactId: "docker-commons"
   source:
     version: "422.v9d1a_89cede51"
@@ -146,9 +143,6 @@ plugins:
 - artifactId: "workflow-basic-steps"
   source:
     version: "1017.vb_45b_302f0cea_"
-- artifactId: "jsch"
-  source:
-    version: "0.2.8-65.v052c39de79b_2"
 - artifactId: "github-api"
   source:
     version: "1.314-431.v78d72a_3fe4c3"
@@ -272,6 +266,9 @@ plugins:
 - artifactId: "credentials"
   source:
     version: "1254.vb_96f366e7b_a_d"
+- artifactId: "mina-sshd-api-common"
+  source:
+    version: "2.10.0-69.v28e3e36d18eb_"
 - artifactId: "blueocean-pipeline-scm-api"
   source:
     version: "1.27.4"
@@ -299,15 +296,9 @@ plugins:
 - artifactId: "cloudbees-folder"
   source:
     version: "6.815.v0dd5a_cb_40e0e"
-- artifactId: "popper2-api"
-  source:
-    version: "2.11.6-2"
 - artifactId: "durable-task"
   source:
     version: "507.v050055d0cb_dd"
-- artifactId: "blueocean-autofavorite"
-  source:
-    version: "1.2.5"
 - artifactId: "timestamper"
   source:
     version: "1.25"
