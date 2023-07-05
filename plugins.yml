@@ -160,7 +160,7 @@ plugins:
     version: "3697.vb_470e454c232"
 - artifactId: "matrix-auth"
   source:
-    version: "3.1.8"
+    version: "3.1.9"
 - artifactId: "gradle"
   source:
     version: "2.8.1"
