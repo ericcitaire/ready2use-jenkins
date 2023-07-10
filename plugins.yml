@@ -124,7 +124,7 @@ plugins:
     version: "1.10"
 - artifactId: "docker-commons"
   source:
-    version: "434.v3dc53576ec32"
+    version: "439.va_3cb_0a_6a_fb_29"
 - artifactId: "workflow-durable-task-step"
   source:
     version: "1247.v7f9dfea_b_4fd0"
