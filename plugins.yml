@@ -298,7 +298,7 @@ plugins:
     version: "6.815.v0dd5a_cb_40e0e"
 - artifactId: "durable-task"
   source:
-    version: "507.v050055d0cb_dd"
+    version: "510.v324450f8dca_4"
 - artifactId: "timestamper"
   source:
     version: "1.25"
