@@ -154,7 +154,7 @@ plugins:
     version: "3705.va_6a_c2775a_c17"
 - artifactId: "matrix-auth"
   source:
-    version: "3.1.9"
+    version: "3.1.10"
 - artifactId: "gradle"
   source:
     version: "2.8.1"
