@@ -358,7 +358,7 @@ plugins:
     version: "2.1122.v09cb_8ea_8a_724"
 - artifactId: "workflow-api"
   source:
-    version: "1223.v41b_0279c361a"
+    version: "1239.vd7c497375cb_f"
 - artifactId: "jersey2-api"
   source:
     version: "2.40-1"
