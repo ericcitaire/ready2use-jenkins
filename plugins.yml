@@ -265,7 +265,7 @@ plugins:
     version: "596.v8c21c963d92d"
 - artifactId: "credentials"
   source:
-    version: "1254.vb_96f366e7b_a_d"
+    version: "1268.v3f0d043d60e9"
 - artifactId: "mina-sshd-api-common"
   source:
     version: "2.10.0-69.v28e3e36d18eb_"
