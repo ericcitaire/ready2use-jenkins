@@ -256,7 +256,7 @@ plugins:
     version: "333.v878b_53c89511"
 - artifactId: "credentials-binding"
   source:
-    version: "604.vb_64480b_c56ca_"
+    version: "621.v58c0fb_d285a_c"
 - artifactId: "blueocean-git-pipeline"
   source:
     version: "1.27.4"
