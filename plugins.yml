@@ -103,7 +103,7 @@ plugins:
     version: "2.33"
 - artifactId: "pipeline-build-step"
   source:
-    version: "496.v2449a_9a_221f2"
+    version: "505.v5f0844d8d126"
 - artifactId: "pipeline-model-definition"
   source:
     version: "2.2144.v077a_d1928a_40"
