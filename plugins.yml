@@ -151,7 +151,7 @@ plugins:
     version: "5.4.0-5"
 - artifactId: "workflow-cps"
   source:
-    version: "3726.v83f8cff396c9"
+    version: "3731.ve4b_5b_857b_a_d3"
 - artifactId: "matrix-auth"
   source:
     version: "3.1.10"
