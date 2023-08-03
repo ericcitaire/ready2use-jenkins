@@ -325,7 +325,7 @@ plugins:
     version: "1.1"
 - artifactId: "ssh-slaves"
   source:
-    version: "2.877.v365f5eb_a_b_eec"
+    version: "2.916.vd17b_43357ce4"
 - artifactId: "blueocean"
   source:
     version: "1.27.5"
