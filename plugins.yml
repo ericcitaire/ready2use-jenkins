@@ -301,7 +301,7 @@ plugins:
     version: "513.vc48a_a_075a_d93"
 - artifactId: "timestamper"
   source:
-    version: "1.25"
+    version: "1.26"
 - artifactId: "junit"
   source:
     version: "1217.v4297208a_a_b_ce"
