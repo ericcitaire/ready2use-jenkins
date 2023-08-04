@@ -349,7 +349,7 @@ plugins:
     version: "3.12.0-36.vd97de6465d5b_"
 - artifactId: "display-url-api"
   source:
-    version: "2.3.7"
+    version: "2.3.8"
 - artifactId: "jenkins-design-language"
   source:
     version: "1.27.5"
