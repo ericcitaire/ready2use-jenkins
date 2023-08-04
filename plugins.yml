@@ -331,7 +331,7 @@ plugins:
     version: "1.27.5"
 - artifactId: "htmlpublisher"
   source:
-    version: "1.31"
+    version: "1.32"
 - artifactId: "handy-uri-templates-2-api"
   source:
     version: "2.1.8-22.v77d5b_75e6953"
