@@ -232,7 +232,7 @@ plugins:
     version: "2.0.0"
 - artifactId: "antisamy-markup-formatter"
   source:
-    version: "159.v25b_c67cd35fb_"
+    version: "162.v0e6ec0fcfcf6"
 - artifactId: "pipeline-rest-api"
   source:
     version: "2.33"
