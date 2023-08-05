@@ -244,7 +244,7 @@ plugins:
     version: "1.27.5"
 - artifactId: "pipeline-input-step"
   source:
-    version: "468.va_5db_051498a_4"
+    version: "477.v339683a_8d55e"
 - artifactId: "pipeline-utility-steps"
   source:
     version: "2.16.0"
