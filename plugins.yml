@@ -220,7 +220,7 @@ plugins:
     version: "2.2144.v077a_d1928a_40"
 - artifactId: "pipeline-groovy-lib"
   source:
-    version: "656.va_a_ceeb_6ffb_f7"
+    version: "671.v07c339c842e8"
 - artifactId: "workflow-support"
   source:
     version: "848.v5a_383b_d14921"
