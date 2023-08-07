@@ -133,7 +133,7 @@ plugins:
     version: "1.27.5"
 - artifactId: "ssh-credentials"
   source:
-    version: "305.v8f4381501156"
+    version: "308.ve4497b_ccd8f4"
 - artifactId: "data-tables-api"
   source:
     version: "1.13.5-1"
