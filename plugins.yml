@@ -91,7 +91,7 @@ plugins:
     version: "1.27.5"
 - artifactId: "favorite"
   source:
-    version: "2.4.2"
+    version: "2.4.3"
 - artifactId: "okhttp-api"
   source:
     version: "4.11.0-145.vcb_8de402ef81"
