@@ -346,7 +346,7 @@ plugins:
     version: "2.4.2"
 - artifactId: "commons-lang3-api"
   source:
-    version: "3.12.0-36.vd97de6465d5b_"
+    version: "3.13.0-62.v7d18e55f51e2"
 - artifactId: "display-url-api"
   source:
     version: "2.3.8"
