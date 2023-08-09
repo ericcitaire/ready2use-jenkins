@@ -205,7 +205,7 @@ plugins:
     version: "1.84"
 - artifactId: "ldap"
   source:
-    version: "682.v7b_544c9d1512"
+    version: "694.vc02a_69c9787f"
 - artifactId: "plugin-util-api"
   source:
     version: "3.3.0"
