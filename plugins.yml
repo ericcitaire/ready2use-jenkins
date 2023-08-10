@@ -295,7 +295,7 @@ plugins:
     version: "1.53.v1c90fd9191a_b_"
 - artifactId: "cloudbees-folder"
   source:
-    version: "6.815.v0dd5a_cb_40e0e"
+    version: "6.846.v23698686f0f6"
 - artifactId: "durable-task"
   source:
     version: "513.vc48a_a_075a_d93"
