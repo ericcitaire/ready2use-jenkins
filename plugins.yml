@@ -226,7 +226,7 @@ plugins:
     version: "848.v5a_383b_d14921"
 - artifactId: "gitlab-branch-source"
   source:
-    version: "664.v877fdc293c89"
+    version: "670.vf7df45517001"
 - artifactId: "checks-api"
   source:
     version: "2.0.0"
