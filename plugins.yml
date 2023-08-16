@@ -283,7 +283,7 @@ plugins:
     version: "143.v1b_df8b_d3b_e48"
 - artifactId: "matrix-project"
   source:
-    version: "802.v8013b_40c7edc"
+    version: "808.v5a_b_5f56d6966"
 - artifactId: "git"
   source:
     version: "5.2.0"
