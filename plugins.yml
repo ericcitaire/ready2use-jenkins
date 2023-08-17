@@ -310,7 +310,7 @@ plugins:
     version: "202.va_d268e64deb_3"
 - artifactId: "structs"
   source:
-    version: "324.va_f5d6774f3a_d"
+    version: "325.vcb_307d2a_2782"
 - artifactId: "apache-httpcomponents-client-4-api"
   source:
     version: "4.5.14-150.v7a_b_9d17134a_5"
