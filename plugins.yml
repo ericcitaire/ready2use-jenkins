@@ -175,7 +175,7 @@ plugins:
     version: "1269.v639888f5e366"
 - artifactId: "build-monitor-plugin"
   source:
-    version: "1.14-740.v1df20e5c64b_b_"
+    version: "1.14-745.ve2023a_305f40"
 - artifactId: "blueocean-dashboard"
   source:
     version: "1.27.6"
