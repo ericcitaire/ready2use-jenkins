@@ -172,7 +172,7 @@ plugins:
     version: "1.26"
 - artifactId: "script-security"
   source:
-    version: "1273.v66c1964f0dfd"
+    version: "1274.v2b_33362a_f2f5"
 - artifactId: "build-monitor-plugin"
   source:
     version: "1.14-745.ve2023a_305f40"
