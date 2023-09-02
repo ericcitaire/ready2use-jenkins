@@ -202,7 +202,7 @@ plugins:
     version: "1.10.0-68.v0d0b_c439292b_"
 - artifactId: "job-dsl"
   source:
-    version: "1.84"
+    version: "1.85"
 - artifactId: "ldap"
   source:
     version: "694.vc02a_69c9787f"
