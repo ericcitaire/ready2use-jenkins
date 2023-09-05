@@ -211,7 +211,7 @@ plugins:
     version: "3.3.0"
 - artifactId: "variant"
   source:
-    version: "59.vf075fe829ccb"
+    version: "60.v7290fc0eb_b_cd"
 - artifactId: "font-awesome-api"
   source:
     version: "6.4.0-2"
