@@ -199,7 +199,7 @@ plugins:
     version: "2.84.v72119de229b_7"
 - artifactId: "commons-text-api"
   source:
-    version: "1.10.0-68.v0d0b_c439292b_"
+    version: "1.10.0-78.v3e7b_ea_d5a_fe1"
 - artifactId: "job-dsl"
   source:
     version: "1.85"
