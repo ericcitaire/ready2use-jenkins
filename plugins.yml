@@ -250,7 +250,7 @@ plugins:
     version: "2.16.0"
 - artifactId: "jquery3-api"
   source:
-    version: "3.7.0-1"
+    version: "3.7.1-2"
 - artifactId: "ssh-agent"
   source:
     version: "333.v878b_53c89511"
