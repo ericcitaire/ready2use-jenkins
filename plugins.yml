@@ -229,7 +229,7 @@ plugins:
     version: "671.v67b_7169092ca_"
 - artifactId: "checks-api"
   source:
-    version: "2.0.1"
+    version: "2.2.1"
 - artifactId: "antisamy-markup-formatter"
   source:
     version: "162.v0e6ec0fcfcf6"
