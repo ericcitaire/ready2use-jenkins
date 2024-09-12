@@ -214,7 +214,7 @@ plugins:
     version: "60.v7290fc0eb_b_cd"
 - artifactId: "font-awesome-api"
   source:
-    version: "6.4.0-2"
+    version: "6.6.0-2"
 - artifactId: "pipeline-model-extensions"
   source:
     version: "2.2144.v077a_d1928a_40"
