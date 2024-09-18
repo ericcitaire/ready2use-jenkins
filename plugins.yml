@@ -7,7 +7,7 @@ plugins:
     version: "2.10.0-69.v28e3e36d18eb_"
 - artifactId: "blueocean-config"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "github-branch-source"
   source:
     version: "1734.v8a_ed3a_653490"
@@ -19,7 +19,7 @@ plugins:
     version: "42.v0739460cda_c4"
 - artifactId: "blueocean-pipeline-api-impl"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "workflow-multibranch"
   source:
     version: "756.v891d88f2cd46"
@@ -55,7 +55,7 @@ plugins:
     version: "1700.v6f448841296e"
 - artifactId: "blueocean-personalization"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "mailer"
   source:
     version: "463.vedf8358e006b_"
@@ -64,7 +64,7 @@ plugins:
     version: "2.15.2-350.v0c2f3f8fc595"
 - artifactId: "blueocean-web"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "workflow-scm-step"
   source:
     version: "415.v434365564324"
@@ -76,7 +76,7 @@ plugins:
     version: "2.0.1-3"
 - artifactId: "blueocean-events"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "token-macro"
   source:
     version: "384.vf35b_f26814ec"
@@ -88,7 +88,7 @@ plugins:
     version: "1.18"
 - artifactId: "blueocean-i18n"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "favorite"
   source:
     version: "2.4.3"
@@ -97,7 +97,7 @@ plugins:
     version: "4.11.0-157.v6852a_a_fa_ec11"
 - artifactId: "blueocean-rest"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "pipeline-stage-view"
   source:
     version: "2.33"
@@ -130,7 +130,7 @@ plugins:
     version: "1289.v4d3e7b_01546b_"
 - artifactId: "blueocean-pipeline-editor"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "ssh-credentials"
   source:
     version: "308.ve4497b_ccd8f4"
@@ -166,7 +166,7 @@ plugins:
     version: "56.v1b_1c8c49374e"
 - artifactId: "blueocean-commons"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "sse-gateway"
   source:
     version: "1.26"
@@ -178,13 +178,13 @@ plugins:
     version: "1.14-745.ve2023a_305f40"
 - artifactId: "blueocean-dashboard"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "blueocean-core-js"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "blueocean-github-pipeline"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "pipeline-milestone-step"
   source:
     version: "111.v449306f708b_7"
@@ -193,7 +193,7 @@ plugins:
     version: "2.0.1-3"
 - artifactId: "blueocean-jwt"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "trilead-api"
   source:
     version: "2.84.v72119de229b_7"
@@ -241,7 +241,7 @@ plugins:
     version: "2.2144.v077a_d1928a_40"
 - artifactId: "blueocean-rest-impl"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "pipeline-input-step"
   source:
     version: "477.v339683a_8d55e"
@@ -259,7 +259,7 @@ plugins:
     version: "631.v861c06d062b_4"
 - artifactId: "blueocean-git-pipeline"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "workflow-aggregator"
   source:
     version: "596.v8c21c963d92d"
@@ -271,7 +271,7 @@ plugins:
     version: "2.10.0-69.v28e3e36d18eb_"
 - artifactId: "blueocean-pipeline-scm-api"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "caffeine-api"
   source:
     version: "3.1.8-133.v17b_1ff2e0599"
@@ -319,7 +319,7 @@ plugins:
     version: "497.v94e7d9fffa_b_9"
 - artifactId: "blueocean-bitbucket-pipeline"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "configuration-as-code-groovy"
   source:
     version: "1.1"
@@ -328,7 +328,7 @@ plugins:
     version: "2.916.vd17b_43357ce4"
 - artifactId: "blueocean"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "htmlpublisher"
   source:
     version: "1.32"
@@ -352,7 +352,7 @@ plugins:
     version: "2.3.9"
 - artifactId: "jenkins-design-language"
   source:
-    version: "1.27.6"
+    version: "1.27.16"
 - artifactId: "branch-api"
   source:
     version: "2.1128.v717130d4f816"
