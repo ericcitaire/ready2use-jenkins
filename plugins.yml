@@ -289,7 +289,7 @@ plugins:
     version: "5.2.0"
 - artifactId: "bootstrap5-api"
   source:
-    version: "5.3.0-1"
+    version: "5.3.8-1048.va_c299057e35c"
 - artifactId: "authentication-tokens"
   source:
     version: "1.53.v1c90fd9191a_b_"
